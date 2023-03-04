@@ -31,7 +31,7 @@
     "chai": "3.5.0",
     "eslint": "^3.2.2",
     "eslint-config-xo": "^0.17.0",
-    "mocha": "^3.5.3"
+    "mocha": "^10.2.0"
   },
   "eslintConfig": {
     "extends": "xo",
